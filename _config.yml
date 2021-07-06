@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : link_physio
+  username               : &link_physio
 facebook:
   username               :
   app_id                 :
