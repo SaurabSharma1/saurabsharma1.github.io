@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Dr Saurab Sharma"
-  avatar           : "profile.png"
+  avatar           : "Saurab Sharma headshot.jpg"
   bio              : "Postdoctoral Research Fellow researching pain"
   location         : "Neuroscience Research Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Xjm2ft4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
